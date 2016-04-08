@@ -10,6 +10,10 @@ The frontend script is `runscriptrun.py`. **Run that one, please.**
 
 The backend script is `convert.py`.
 
+`runscriptrun.py` has predefined variables, denoted by the comment `# PREDEFINED`. Change those to `""` (blank) or `0` or other values if you're going to use it for different data. If you change them to `""` or `0`, you will be asked for input each time you run `runscriptrun.py`.
+
+That's it! :octocat:
+
 --
 
-**(kurisu_na, 7-10 March 2016)**
+**(kurisu_na, 7-10 March 2016, final revision on 8 April 2016.)**
