@@ -4,7 +4,7 @@ This is a custom Python script used to convert copied text data from the website
 
 This script was made in part of my 3+1 Research project, to make a classifier using Indonesian rice phenotype data.
 
-This script assumes all acquired data are in the form of a *loooooooooooong* vertical list, and then stores the end product in CSV format so I can view it as a neat table.
+This script assumes all acquired data are in the form of a *loooooooooooong* vertical list, and then stores the end product in CSV format so you can view it as a neat table.
 
 The frontend script is `runscriptrun.py`. **Run that one, please.**
 
