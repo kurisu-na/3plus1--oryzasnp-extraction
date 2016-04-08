@@ -1,6 +1,6 @@
 # 3+1 Research: OryzaSNP Data Extraction (Python)
 
-This is a custom Python script used to convert copied text data from the website oryzasnp.org into a table of records containing the paddy's phenotype data. The data was obtained by manually perusing the database and copy-pasting the shown values.
+This is a custom Python script used to convert copied text data from the website oryzasnp.org into a table of records containing the rice's phenotype data. The data was obtained by manually perusing the database and copy-pasting the shown values.
 
 This script was made in part of my 3+1 Research project, to make a classifier using Indonesian rice phenotype data.
 
