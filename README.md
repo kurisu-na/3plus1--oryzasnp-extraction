@@ -12,6 +12,8 @@ The backend script is `convert.py`.
 
 `runscriptrun.py` has predefined variables, denoted by the comment `# PREDEFINED`. Change those to `""` (blank) or `0` or other values if you're going to use it for different data. If you change them to `""` or `0`, you will be asked for input each time you run `runscriptrun.py`.
 
+The files I used can be found in the `Files` folder.
+
 That's it! :octocat:
 
 --
